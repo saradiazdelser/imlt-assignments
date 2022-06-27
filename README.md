@@ -1,5 +1,5 @@
 # IMLT Assignments
-Assignments for the course "Introdction to Machine Learning Tutorial" from the LSI Master at Bonn Univeristy.
+Assignments for the course "Introduction to Machine Learning Tutorial" from the LSI Master at Bonn University.
 
 
 ## Status
@@ -11,7 +11,7 @@ Assignments for the course "Introdction to Machine Learning Tutorial" from the L
 - KNN
 - SVN
 - Logistic Regression
-- Random Forestt
+- Random Forest
 - AdaBoost
 - GradientBoost
 
