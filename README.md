@@ -17,6 +17,9 @@ Assignments for the course "Introdction to Machine Learning Tutorial" from the L
 
 
 ## Data
-'diabetes.csv' downloaded from Kaggle (originally from the N. Inst. of Diabetes & Diges. & Kidney Dis.):
+- 'diabetes.csv' downloaded from Kaggle (originally from the N. Inst. of Diabetes & Diges. & Kidney Dis.):
 
-`kaggle datasets download -d mathchi/diabetes-data-set`
+    `kaggle datasets download -d mathchi/diabetes-data-set`
+
+
+- 'Breast Cancer.csv' originally from: http://pages.cs.wisc.edu/~olvi/uwmp/cancer.html
